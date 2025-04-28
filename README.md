@@ -1,28 +1,26 @@
 # Zhijie Zhang
 "less is more"
 
-## Java Engineer
+## Java 后端开发
 
 [EMAIL](2217500559@qq.com)
 [GITHUB](https://github.com/zhijiezhangggggg)
 [WeChat](13826629324)
 
 ## About Me
-Currently exploring data synthesis, reasoning models, and multi - agent systems. Fourth - year medical student with an ENTP personality and Aquarius zodiac sign.
+目前还在努力学习后端知识
 
-## Technology Stack
-### Development
-- Python
-- Flask
-- SQL
-- JavaScript
-- HTML
-- CSS
+## 技术栈
+### 开发框架
+- SpringBoot
+- Mybatis
+- Elasticsearch
+- SpringCloud
 
-### Artificial Intelligence
-- PyTorch
-- Scikit - learn
-- TensorFlow
+### 开发工具
+- Maven
+- Git
+- Docker
 - Keras
 
 ## Featured Projects
