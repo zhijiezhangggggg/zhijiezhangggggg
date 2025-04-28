@@ -1,28 +1,22 @@
-# Zhijie Zhang
-"less is more"
+##
+![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 
-## Java 后端开发
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-[EMAIL](2217500559@qq.com)
-[GITHUB](https://github.com/zhijiezhangggggg)
-[WeChat](13826629324)
+### This is zzj!
+Welcome to my Github page! I am zzj and I am currently improving my programming skills!
+- 🔭 I’m currently interning at a company in guangzhou.
+- 📚 I’m currently learning  backend web development using Java, SpringCloud and Redis.
+- 📫 How to reach me: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/FernandoRoldan93](https://github.com/zhijiezhangggggg))[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](abc2217500559@gmail.com)
 
-## About Me
-目前还在努力学习后端知识
+#### 🌱 Things I am currently working on:
+- Trying to write some code and contribute a little to the community
+- Taking online courses about backend web development Learning
 
-## 技术栈
-### 开发框架
-- SpringBoot
-- Mybatis
-- Elasticsearch
-- SpringCloud
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
 
-### 开发工具
-- Maven
-- Git
-- Docker
-- Keras
 
-## Featured Projects
-- [Project Name 1](https://github.com/your_repo1) - A brief description of project 1.
-- [Project Name 2](https://github.com/your_repo2) - A brief description of project 2.
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
