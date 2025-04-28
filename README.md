@@ -1,16 +1,30 @@
-## Hi there 👋
+# Zhijie Zhang
+"less is more"
 
-<!--
-**zhijiezhangggggg/zhijiezhangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Engineer
 
-Here are some ideas to get you started:
+[EMAIL](2217500559@qq.com)
+[GITHUB](https://github.com/zhijiezhangggggg)
+[WeChat](13826629324)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Currently exploring data synthesis, reasoning models, and multi - agent systems. Fourth - year medical student with an ENTP personality and Aquarius zodiac sign.
+
+## Technology Stack
+### Development
+- Python
+- Flask
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Artificial Intelligence
+- PyTorch
+- Scikit - learn
+- TensorFlow
+- Keras
+
+## Featured Projects
+- [Project Name 1](https://github.com/your_repo1) - A brief description of project 1.
+- [Project Name 2](https://github.com/your_repo2) - A brief description of project 2.
